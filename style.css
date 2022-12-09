@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main{
+    width: 30%;
+    height: 20%;
+}
+.productImg{
+    padding: 20px 0;
+}
+.productImg img{
+    width: 50%;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.productImg p{
+    text-align: left;
+    margin-left: 20px;
+    color: rgb(78, 78, 78);
+    font-size: 15px;
+    line-height: 20px;
+}
